@@ -2,7 +2,7 @@
 test_project_demo
 基于excel的接口自动化测试框架
 
-git仓地址：
+git仓地址：https://github.com/zhouqingtao2006/test_project
 
 <h2>框架结构说明</h2>
 
