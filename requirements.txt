@@ -1,0 +1,6 @@
+# todo
+requests==2.20.0
+openpyxl==2.5.6
+yagmail==0.15.277
+bottle==0.12.21
+
