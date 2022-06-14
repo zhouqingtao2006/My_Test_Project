@@ -1,5 +1,5 @@
 # My_Test_Project
-test_project_demo
+my_test_project demo
 基于excel的接口自动化测试框架
 
 git仓地址：https://github.com/zhouqingtao2006/test_project
